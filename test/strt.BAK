@@ -1,0 +1,4 @@
+SET PROCEDURE TO temp.prg
+clear
+
+?pingme("137.0.0.1")
