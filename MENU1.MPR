@@ -1,6 +1,6 @@
 *       *********************************************************
 *       *                                                         
-*       * 31.08.2023             MENU1.MPR              13:47:42  
+*       * 16.09.2023             MENU1.MPR              10:21:55  
 *       *                                                         
 *       *********************************************************
 *       *                                                         
@@ -26,5 +26,5 @@
 SET SYSMENU TO
 SET SYSMENU AUTOMATIC
 
-DEFINE PAD _6p80tkg5g OF _MSYSMENU PROMPT "Сервис" COLOR SCHEME 3 ;
+DEFINE PAD _6po0m7sig OF _MSYSMENU PROMPT "Сервис" COLOR SCHEME 3 ;
 	KEY ALT+С, ""
